@@ -1,0 +1,4 @@
+sequence,vault_id,vault_name,capacity_seeds,candidate_packets,released_packets,released_seeds,remaining_capacity
+10,V-A,Aurora Svalbard,550,2,1,500,50
+30,V-C,Cryo Annex,250,1,1,200,50
+40,V-D,Drift Reserve,175,0,0,0,175
