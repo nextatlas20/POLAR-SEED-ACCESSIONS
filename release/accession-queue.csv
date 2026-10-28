@@ -1,0 +1,3 @@
+sequence,vault_id,vault_name,allocation_position,packet_id,crop,seed_count
+10,V-A,Aurora Svalbard,1,SP-113,rice,500
+30,V-C,Cryo Annex,1,SP-110,wheat,200
