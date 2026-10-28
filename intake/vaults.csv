@@ -1,0 +1,5 @@
+sequence,vault_id,vault_name,state,capacity_seeds
+10,V-A,Aurora Svalbard,OPEN,550
+20,V-B,Borealis Cache,HOLD,300
+30,V-C,Cryo Annex,OPEN,250
+40,V-D,Drift Reserve,OPEN,175

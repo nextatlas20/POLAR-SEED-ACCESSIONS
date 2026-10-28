@@ -1,0 +1,16 @@
+packet_id	vault_id	crop	seed_count	packet_status
+SP-101	V-A	arcticbarley	120	SEALED
+SP-102	V-B	rye	80	SEALED
+SP-103	V-A	quinoa	75	INSPECT
+SP-104	V-C	lentil	60	DAMAGED
+SP-105	V-A	oats	90	SEALED
+SP-105	V-A	millet	50	SEALED
+SP-106	V-X	beans	44	SEALED
+SP-107	V-A	Maize	20	SEALED
+SP-108	V-A	flax	005	SEALED
+not	enough	fields
+SP-109	V-Z	rye	33	INSPECT
+SP-110	V-C	wheat	200	SEALED
+SP-111	V-C	bean	30	INSPECT
+SP-112	V-B	pea	40	DAMAGED
+SP-113	V-A	rice	500	SEALED
